@@ -1,0 +1,482 @@
+C:\Program Files (x86)\Steam\steamapps\common\Revolution Idle/
+│   │   │   ├── Demeo.dll  8 KB
+│   │   │   ├── Demeo.pdb  3 KB
+│   │   │   ├── IPA.dll  10 KB
+│   │   │   ├── IPA.dll.mdb  2 KB       
+│   │   │   ├── IPA.pdb  4 KB
+│   │   │   ├── Muse_Dash_Mono.dll  8 KB
+│   │   │   ├── Muse_Dash_Mono.dll.mdb  2 KB
+│   │   │   ├── Muse_Dash_Mono.pdb  3 KB
+│   │   │   └── Stress_Level_Zero_Il2Cpp.dll  6 KB
+│   │   ├── CompatibilityLayers/  [45 KB]
+│   │   │   │   │   ├── __Generated.dll  2 KB
+│   │   │   │   │   ├── ACTk.Examples.Genuine.Runtime.dll  6 KB
+│   │   │   │   │   ├── ACTk.Examples.Runtime.dll  37 KB
+│   │   │   │   │   ├── ACTk.Runtime.dll  327 KB
+│   │   │   │   │   ├── Assembly-CSharp-firstpass.dll  66 KB
+│   │   │   │   │   ├── Assembly-CSharp.dll  994 KB
+│   │   │   │   │   ├── bundle.dll  266 KB
+│   │   │   │   │   ├── Coffee.SoftMaskForUGUI.dll  76 KB
+│   │   │   │   │   ├── Coffee.UIEffect.dll  66 KB
+│   │   │   │   │   ├── Facepunch.Steamworks.Win64.dll  239 KB
+│   │   │   │   │   ├── Febucci.TextAnimator.Demo.Runtime.dll  8 KB
+│   │   │   │   │   ├── Febucci.TextAnimator.Runtime.dll  94 KB
+│   │   │   │   │   ├── GoogleMobileAds.Common.dll  26 KB
+│   │   │   │   │   ├── GoogleMobileAds.Core.dll  8 KB
+│   │   │   │   │   ├── GoogleMobileAds.dll  14 KB
+│   │   │   │   │   ├── Mono.Security.dll  141 KB
+│   │   │   │   │   ├── mscorlib.dll  2,462 KB
+│   │   │   │   │   ├── Nakama.dll  238 KB
+│   │   │   │   │   ├── NakamaRuntime.dll  14 KB
+│   │   │   │   │   ├── Newtonsoft.Json.dll  448 KB
+│   │   │   │   │   ├── Purchasing.Common.dll  9 KB
+│   │   │   │   │   ├── Satori.dll  31 KB
+│   │   │   │   │   ├── System.Configuration.dll  6 KB
+│   │   │   │   │   ├── System.Core.dll  579 KB
+│   │   │   │   │   ├── System.Data.dll  541 KB
+│   │   │   │   │   ├── System.dll  1,047 KB
+│   │   │   │   │   ├── System.Drawing.dll  22 KB
+│   │   │   │   │   ├── System.Numerics.dll  33 KB
+│   │   │   │   │   ├── System.Runtime.Serialization.dll  6 KB
+│   │   │   │   │   ├── System.Xml.dll  1,198 KB
+│   │   │   │   │   ├── System.Xml.Linq.dll  42 KB
+│   │   │   │   │   ├── Unity.Addressables.dll  125 KB
+│   │   │   │   │   ├── Unity.Localization.dll  403 KB
+│   │   │   │   │   ├── Unity.MemoryProfiler.dll  5 KB
+│   │   │   │   │   ├── Unity.Profiling.Core.dll  4 KB
+│   │   │   │   │   ├── Unity.ResourceManager.dll  182 KB
+│   │   │   │   │   ├── Unity.Services.Analytics.dll  54 KB
+│   │   │   │   │   ├── Unity.Services.Authentication.dll  31 KB
+│   │   │   │   │   ├── Unity.Services.Authentication.PlayerAccounts.dll  48 KB
+│   │   │   │   │   ├── Unity.Services.Core.Configuration.dll  8 KB
+│   │   │   │   │   ├── Unity.Services.Core.Device.dll  4 KB
+│   │   │   │   │   ├── Unity.Services.Core.dll  10 KB
+│   │   │   │   │   ├── Unity.Services.Core.Environments.Internal.dll  3 KB
+│   │   │   │   │   ├── Unity.Services.Core.Internal.dll  38 KB
+│   │   │   │   │   ├── Unity.Services.Core.Registration.dll  14 KB
+│   │   │   │   │   ├── Unity.Services.Core.Scheduler.dll  8 KB
+│   │   │   │   │   ├── Unity.Services.Core.Telemetry.dll  4 KB
+│   │   │   │   │   ├── Unity.Services.Core.Threading.dll  2 KB
+│   │   │   │   │   ├── Unity.TextMeshPro.dll  349 KB
+│   │   │   │   │   ├── UnityEngine.Advertisements.dll  18 KB
+│   │   │   │   │   ├── UnityEngine.AIModule.dll  10 KB
+│   │   │   │   │   ├── UnityEngine.AndroidJNIModule.dll  48 KB
+│   │   │   │   │   ├── UnityEngine.AnimationModule.dll  33 KB
+│   │   │   │   │   ├── UnityEngine.AssetBundleModule.dll  14 KB
+│   │   │   │   │   ├── UnityEngine.AudioModule.dll  18 KB
+│   │   │   │   │   ├── UnityEngine.CoreModule.dll  673 KB
+│   │   │   │   │   ├── UnityEngine.DirectorModule.dll  10 KB
+│   │   │   │   │   ├── UnityEngine.dll  2 KB
+│   │   │   │   │   ├── UnityEngine.GridModule.dll  9 KB
+│   │   │   │   │   ├── UnityEngine.ImageConversionModule.dll  9 KB
+│   │   │   │   │   ├── UnityEngine.IMGUIModule.dll  156 KB
+│   │   │   │   │   ├── UnityEngine.InputLegacyModule.dll  24 KB
+│   │   │   │   │   ├── UnityEngine.InputModule.dll  11 KB
+│   │   │   │   │   ├── UnityEngine.JSONSerializeModule.dll  10 KB
+│   │   │   │   │   ├── UnityEngine.ParticleSystemModule.dll  16 KB
+│   │   │   │   │   ├── UnityEngine.Physics2DModule.dll  21 KB
+│   │   │   │   │   ├── UnityEngine.PhysicsModule.dll  32 KB
+│   │   │   │   │   ├── UnityEngine.PropertiesModule.dll  56 KB
+│   │   │   │   │   ├── UnityEngine.Purchasing.AppleCore.dll  4 KB
+│   │   │   │   │   ├── UnityEngine.Purchasing.AppleMacosStub.dll  4 KB
+│   │   │   │   │   ├── UnityEngine.Purchasing.AppleStub.dll  4 KB
+│   │   │   │   │   ├── UnityEngine.Purchasing.dll  54 KB
+│   │   │   │   │   ├── UnityEngine.Purchasing.SecurityCore.dll  6 KB
+│   │   │   │   │   ├── UnityEngine.Purchasing.SecurityStub.dll  3 KB
+│   │   │   │   │   ├── UnityEngine.Purchasing.Stores.dll  171 KB
+│   │   │   │   │   ├── UnityEngine.Purchasing.WinRTCore.dll  6 KB
+│   │   │   │   │   ├── UnityEngine.Purchasing.WinRTStub.dll  2 KB
+│   │   │   │   │   ├── UnityEngine.ScreenCaptureModule.dll  10 KB
+│   │   │   │   │   ├── UnityEngine.SharedInternalsModule.dll  22 KB
+│   │   │   │   │   ├── UnityEngine.SpriteShapeModule.dll  8 KB
+│   │   │   │   │   ├── UnityEngine.SubsystemsModule.dll  14 KB
+│   │   │   │   │   ├── UnityEngine.TerrainModule.dll  18 KB
+│   │   │   │   │   ├── UnityEngine.TextCoreFontEngineModule.dll  42 KB
+│   │   │   │   │   ├── UnityEngine.TextCoreTextEngineModule.dll  146 KB
+│   │   │   │   │   ├── UnityEngine.TextRenderingModule.dll  24 KB
+│   │   │   │   │   ├── UnityEngine.TilemapModule.dll  22 KB
+│   │   │   │   │   ├── UnityEngine.UI.dll  345 KB
+│   │   │   │   │   ├── UnityEngine.UIElementsModule.dll  1,443 KB
+│   │   │   │   │   ├── UnityEngine.UIModule.dll  30 KB
+│   │   │   │   │   ├── UnityEngine.UnityAnalyticsCommonModule.dll  10 KB
+│   │   │   │   │   ├── UnityEngine.UnityAnalyticsModule.dll  17 KB
+│   │   │   │   │   ├── UnityEngine.UnityWebRequestAssetBundleModule.dll  12 KB
+│   │   │   │   │   ├── UnityEngine.UnityWebRequestModule.dll  34 KB
+│   │   │   │   │   ├── UnityEngine.VFXModule.dll  17 KB
+│   │   │   │   │   ├── UnityEngine.VideoModule.dll  16 KB
+│   │   │   │   │   ├── UnityEngine.VRModule.dll  10 KB
+│   │   │   │   │   └── UnityEngine.XRModule.dll  28 KB
+│   │   │   │   ├── cpp2il_out/  [14,028 KB]
+│   │   │   │   │   └── Cpp2IL.Plugin.StrippedCodeRegSupport.dll  10 KB
+│   │   │   │   ├── Plugins/  [10 KB]
+│   │   │   │   └── Cpp2IL.exe  14,139 KB
+│   │   │   ├── Cpp2IL/  [28,176 KB]
+│   │   │   ├── Il2CppInterop/  [0 KB]
+│   │   │   │   ├── UnityEngine.AccessibilityModule.dll  12 KB
+│   │   │   │   ├── UnityEngine.AIModule.dll  46 KB
+│   │   │   │   ├── UnityEngine.AndroidJNIModule.dll  86 KB
+│   │   │   │   ├── UnityEngine.AnimationModule.dll  150 KB
+│   │   │   │   ├── UnityEngine.ARModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.AssetBundleModule.dll  22 KB
+│   │   │   │   ├── UnityEngine.AudioModule.dll  58 KB
+│   │   │   │   ├── UnityEngine.ClothModule.dll  15 KB
+│   │   │   │   ├── UnityEngine.ContentLoadModule.dll  16 KB
+│   │   │   │   ├── UnityEngine.CoreModule.dll  1,317 KB
+│   │   │   │   ├── UnityEngine.CrashReportingModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.DirectorModule.dll  14 KB
+│   │   │   │   ├── UnityEngine.dll  110 KB
+│   │   │   │   ├── UnityEngine.DSPGraphModule.dll  18 KB
+│   │   │   │   ├── UnityEngine.GameCenterModule.dll  28 KB
+│   │   │   │   ├── UnityEngine.GIModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.GridModule.dll  14 KB
+│   │   │   │   ├── UnityEngine.HotReloadModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.ImageConversionModule.dll  14 KB
+│   │   │   │   ├── UnityEngine.IMGUIModule.dll  176 KB
+│   │   │   │   ├── UnityEngine.InputLegacyModule.dll  28 KB
+│   │   │   │   ├── UnityEngine.InputModule.dll  13 KB
+│   │   │   │   ├── UnityEngine.JSONSerializeModule.dll  12 KB
+│   │   │   │   ├── UnityEngine.LocalizationModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.ParticleSystemModule.dll  147 KB
+│   │   │   │   ├── UnityEngine.PerformanceReportingModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.Physics2DModule.dll  128 KB
+│   │   │   │   ├── UnityEngine.PhysicsModule.dll  124 KB
+│   │   │   │   ├── UnityEngine.ProfilerModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.PropertiesModule.dll  140 KB
+│   │   │   │   ├── UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll  10 KB      
+│   │   │   │   ├── UnityEngine.ScreenCaptureModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.SharedInternalsModule.dll  22 KB
+│   │   │   │   ├── UnityEngine.SpriteMaskModule.dll  11 KB
+│   │   │   │   ├── UnityEngine.SpriteShapeModule.dll  15 KB
+│   │   │   │   ├── UnityEngine.StreamingModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.SubstanceModule.dll  14 KB
+│   │   │   │   ├── UnityEngine.SubsystemsModule.dll  24 KB
+│   │   │   │   ├── UnityEngine.TerrainModule.dll  88 KB
+│   │   │   │   ├── UnityEngine.TerrainPhysicsModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.TextCoreFontEngineModule.dll  60 KB
+│   │   │   │   ├── UnityEngine.TextCoreTextEngineModule.dll  233 KB
+│   │   │   │   ├── UnityEngine.TextRenderingModule.dll  28 KB
+│   │   │   │   ├── UnityEngine.TilemapModule.dll  36 KB
+│   │   │   │   ├── UnityEngine.TLSModule.dll  16 KB
+│   │   │   │   ├── UnityEngine.UIElementsModule.dll  1,488 KB
+│   │   │   │   ├── UnityEngine.UIModule.dll  26 KB
+│   │   │   │   ├── UnityEngine.UmbraModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.UnityAnalyticsCommonModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.UnityAnalyticsModule.dll  33 KB
+│   │   │   │   ├── UnityEngine.UnityConnectModule.dll  11 KB
+│   │   │   │   ├── UnityEngine.UnityCurlModule.dll  11 KB
+│   │   │   │   ├── UnityEngine.UnityTestProtocolModule.dll  10 KB
+│   │   │   │   ├── UnityEngine.UnityWebRequestAssetBundleModule.dll  12 KB
+│   │   │   │   ├── UnityEngine.UnityWebRequestAudioModule.dll  12 KB
+│   │   │   │   ├── UnityEngine.UnityWebRequestModule.dll  46 KB
+│   │   │   │   ├── UnityEngine.UnityWebRequestTextureModule.dll  11 KB
+│   │   │   │   ├── UnityEngine.UnityWebRequestWWWModule.dll  20 KB
+│   │   │   │   ├── UnityEngine.VehiclesModule.dll  14 KB
+│   │   │   │   ├── UnityEngine.VFXModule.dll  46 KB
+│   │   │   │   ├── UnityEngine.VideoModule.dll  30 KB
+│   │   │   │   ├── UnityEngine.VRModule.dll  16 KB
+│   │   │   │   ├── UnityEngine.WindModule.dll  10 KB
+│   │   │   │   └── UnityEngine.XRModule.dll  59 KB
+│   │   │   ├── UnityDependencies/  [5,220 KB]
+│   │   │   ├── Config.cfg  5 KB
+│   │   │   ├── Il2CppAssemblyGenerator.deps.json  54 KB
+│   │   │   └── Il2CppAssemblyGenerator.dll  42 KB
+│   │   ├── Il2CppAssemblyGenerator/  [33,496 KB]
+│   │   │   ├── System.Configuration.dll  122 KB
+│   │   │   ├── System.Core.dll  260 KB
+│   │   │   ├── System.dll  1,640 KB
+│   │   │   └── System.Xml.dll  1,240 KB
+│   │   ├── NetStandardPatches/  [3,262 KB]
+│   │       ├── Il2Cpp.deps.json  60 KB
+│   │       ├── Il2Cpp.dll  32 KB
+│   │       ├── Mono.dll  13 KB
+│   │       ├── Mono.dll.mdb  3 KB
+│   │       └── Mono.pdb  4 KB
+│   │   └── SupportModules/  [113 KB]
+│   ├── Dependencies/  [36,916 KB]
+│   │   ├── CHANGELOG.md  112 KB
+│   │   ├── LICENSE.md  11 KB
+│   │   ├── NOTICE.txt  0 KB
+│   │   └── README.md  19 KB
+│   ├── Documentation/  [141 KB]
+│   │   ├── Assembly-CSharp-firstpass.dll  160 KB
+│   │   ├── Assembly-CSharp.dll  2,588 KB
+│   │   ├── Il2Cpp__Generated.dll  4 KB
+│   │   ├── Il2CppACTk.Examples.Genuine.Runtime.dll  14 KB
+│   │   ├── Il2CppACTk.Examples.Runtime.dll  92 KB
+│   │   ├── Il2CppACTk.Runtime.dll  783 KB
+│   │   ├── Il2Cppbundle.dll  696 KB
+│   │   ├── Il2CppCoffee.SoftMaskForUGUI.dll  175 KB
+│   │   ├── Il2CppCoffee.UIEffect.dll  150 KB
+│   │   ├── Il2CppFacepunch.Steamworks.Win64.dll  444 KB
+│   │   ├── Il2CppFebucci.TextAnimator.Demo.Runtime.dll  16 KB
+│   │   ├── Il2CppFebucci.TextAnimator.Runtime.dll  224 KB
+│   │   ├── Il2CppGoogleMobileAds.Common.dll  61 KB
+│   │   ├── Il2CppGoogleMobileAds.Core.dll  16 KB
+│   │   ├── Il2CppGoogleMobileAds.dll  33 KB
+│   │   ├── Il2CppMono.Security.dll  318 KB
+│   │   ├── Il2Cppmscorlib.dll  5,856 KB
+│   │   ├── Il2CppNakama.dll  528 KB
+│   │   ├── Il2CppNakamaRuntime.dll  32 KB
+│   │   ├── Il2CppNewtonsoft.Json.dll  1,112 KB
+│   │   ├── Il2CppPurchasing.Common.dll  18 KB
+│   │   ├── Il2CppSatori.dll  62 KB
+│   │   ├── Il2CppSystem.Configuration.dll  11 KB
+│   │   ├── Il2CppSystem.Core.dll  1,594 KB
+│   │   ├── Il2CppSystem.Data.dll  1,376 KB
+│   │   ├── Il2CppSystem.dll  2,538 KB
+│   │   ├── Il2CppSystem.Drawing.dll  28 KB
+│   │   ├── Il2CppSystem.Numerics.dll  86 KB
+│   │   ├── Il2CppSystem.Runtime.Serialization.dll  9 KB
+│   │   ├── Il2CppSystem.Xml.dll  2,888 KB
+│   │   ├── Il2CppSystem.Xml.Linq.dll  104 KB
+│   │   ├── MethodAddressToToken.db  1,029 KB
+│   │   ├── MethodXrefScanCache.db  17,939 KB
+│   │   ├── Unity.Addressables.dll  349 KB
+│   │   ├── Unity.Localization.dll  916 KB
+│   │   ├── Unity.MemoryProfiler.dll  10 KB
+│   │   ├── Unity.Profiling.Core.dll  6 KB
+│   │   ├── Unity.ResourceManager.dll  462 KB
+│   │   ├── Unity.Services.Analytics.dll  144 KB
+│   │   ├── Unity.Services.Authentication.dll  72 KB
+│   │   ├── Unity.Services.Authentication.PlayerAccounts.dll  106 KB
+│   │   ├── Unity.Services.Core.Configuration.dll  18 KB
+│   │   ├── Unity.Services.Core.Device.dll  9 KB
+│   │   ├── Unity.Services.Core.dll  20 KB
+│   │   ├── Unity.Services.Core.Environments.Internal.dll  4 KB
+│   │   ├── Unity.Services.Core.Internal.dll  104 KB
+│   │   ├── Unity.Services.Core.Registration.dll  28 KB
+│   │   ├── Unity.Services.Core.Scheduler.dll  20 KB
+│   │   ├── Unity.Services.Core.Telemetry.dll  8 KB
+│   │   ├── Unity.Services.Core.Threading.dll  4 KB
+│   │   ├── Unity.TextMeshPro.dll  871 KB
+│   │   ├── UnityEngine.AccessibilityModule.dll  4 KB
+│   │   ├── UnityEngine.Advertisements.dll  39 KB
+│   │   ├── UnityEngine.AIModule.dll  53 KB
+│   │   ├── UnityEngine.AndroidJNIModule.dll  164 KB
+│   │   ├── UnityEngine.AnimationModule.dll  278 KB
+│   │   ├── UnityEngine.ARModule.dll  2 KB
+│   │   ├── UnityEngine.AssetBundleModule.dll  28 KB
+│   │   ├── UnityEngine.AudioModule.dll  128 KB
+│   │   ├── UnityEngine.ClothModule.dll  19 KB
+│   │   ├── UnityEngine.ContentLoadModule.dll  4 KB
+│   │   ├── UnityEngine.CoreModule.dll  2,626 KB
+│   │   ├── UnityEngine.CrashReportingModule.dll  5 KB
+│   │   ├── UnityEngine.DirectorModule.dll  16 KB
+│   │   ├── UnityEngine.dll  2 KB
+│   │   ├── UnityEngine.DSPGraphModule.dll  10 KB
+│   │   ├── UnityEngine.GameCenterModule.dll  11 KB
+│   │   ├── UnityEngine.GIModule.dll  2 KB
+│   │   ├── UnityEngine.GridModule.dll  12 KB
+│   │   ├── UnityEngine.HotReloadModule.dll  2 KB
+│   │   ├── UnityEngine.ImageConversionModule.dll  11 KB
+│   │   ├── UnityEngine.IMGUIModule.dll  433 KB
+│   │   ├── UnityEngine.InputLegacyModule.dll  56 KB
+│   │   ├── UnityEngine.InputModule.dll  12 KB
+│   │   ├── UnityEngine.JSONSerializeModule.dll  6 KB
+│   │   ├── UnityEngine.LocalizationModule.dll  4 KB
+│   │   ├── UnityEngine.ParticleSystemModule.dll  70 KB
+│   │   ├── UnityEngine.PerformanceReportingModule.dll  3 KB
+│   │   ├── UnityEngine.Physics2DModule.dll  236 KB
+│   │   ├── UnityEngine.PhysicsModule.dll  229 KB
+│   │   ├── UnityEngine.ProfilerModule.dll  2 KB
+│   │   ├── UnityEngine.PropertiesModule.dll  148 KB
+│   │   ├── UnityEngine.Purchasing.AppleCore.dll  4 KB
+│   │   ├── UnityEngine.Purchasing.AppleMacosStub.dll  7 KB
+│   │   ├── UnityEngine.Purchasing.AppleStub.dll  7 KB
+│   │   ├── UnityEngine.Purchasing.dll  150 KB
+│   │   ├── UnityEngine.Purchasing.SecurityCore.dll  10 KB
+│   │   ├── UnityEngine.Purchasing.SecurityStub.dll  4 KB
+│   │   ├── UnityEngine.Purchasing.Stores.dll  480 KB
+│   │   ├── UnityEngine.Purchasing.WinRTCore.dll  10 KB
+│   │   ├── UnityEngine.Purchasing.WinRTStub.dll  4 KB
+│   │   ├── UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll  2 KB
+│   │   ├── UnityEngine.ScreenCaptureModule.dll  5 KB
+│   │   ├── UnityEngine.SharedInternalsModule.dll  35 KB
+│   │   ├── UnityEngine.SpriteMaskModule.dll  8 KB
+│   │   ├── UnityEngine.SpriteShapeModule.dll  8 KB
+│   │   ├── UnityEngine.StreamingModule.dll  4 KB
+│   │   ├── UnityEngine.SubstanceModule.dll  6 KB
+│   │   ├── UnityEngine.SubsystemsModule.dll  28 KB
+│   │   ├── UnityEngine.TerrainModule.dll  116 KB
+│   │   ├── UnityEngine.TerrainPhysicsModule.dll  4 KB
+│   │   ├── UnityEngine.TextCoreFontEngineModule.dll  112 KB
+│   │   ├── UnityEngine.TextCoreTextEngineModule.dll  368 KB
+│   │   ├── UnityEngine.TextRenderingModule.dll  48 KB
+│   │   ├── UnityEngine.TilemapModule.dll  70 KB
+│   │   ├── UnityEngine.TLSModule.dll  5 KB
+│   │   ├── UnityEngine.UI.dll  794 KB
+│   │   ├── UnityEngine.UIElementsModule.dll  3,680 KB
+│   │   ├── UnityEngine.UIModule.dll  60 KB
+│   │   ├── UnityEngine.UmbraModule.dll  2 KB
+│   │   ├── UnityEngine.UnityAnalyticsCommonModule.dll  4 KB
+│   │   ├── UnityEngine.UnityAnalyticsModule.dll  60 KB
+│   │   ├── UnityEngine.UnityConnectModule.dll  8 KB
+│   │   ├── UnityEngine.UnityCurlModule.dll  7 KB
+│   │   ├── UnityEngine.UnityTestProtocolModule.dll  2 KB
+│   │   ├── UnityEngine.UnityWebRequestAssetBundleModule.dll  12 KB
+│   │   ├── UnityEngine.UnityWebRequestAudioModule.dll  6 KB
+│   │   ├── UnityEngine.UnityWebRequestModule.dll  78 KB
+│   │   ├── UnityEngine.UnityWebRequestTextureModule.dll  4 KB
+│   │   ├── UnityEngine.UnityWebRequestWWWModule.dll  7 KB
+│   │   ├── UnityEngine.VehiclesModule.dll  11 KB
+│   │   ├── UnityEngine.VFXModule.dll  84 KB
+│   │   ├── UnityEngine.VideoModule.dll  64 KB
+│   │   ├── UnityEngine.VRModule.dll  16 KB
+│   │   ├── UnityEngine.WindModule.dll  6 KB
+│   │   └── UnityEngine.XRModule.dll  88 KB
+│   ├── Il2CppAssemblies/  [55,239 KB]
+│   │   ├── 25-7-30_22-25-34.log  391 KB
+│   │   └── 25-7-31_3-51-46.log  0 KB
+│   ├── Logs/  [391 KB]
+│   │   ├── 0Harmony.dll  257 KB
+│   │   ├── AsmResolver.dll  68 KB
+│   │   ├── AsmResolver.DotNet.dll  518 KB
+│   │   ├── AsmResolver.PE.dll  375 KB
+│   │   ├── AsmResolver.PE.File.dll  40 KB
+│   │   ├── AssetRipper.Primitives.dll  22 KB
+│   │   ├── AssetsTools.NET.dll  192 KB
+│   │   ├── bHapticsLib.dll  48 KB
+│   │   ├── IndexRange.dll  10 KB
+│   │   ├── MelonLoader.dll  1,828 KB
+│   │   ├── MelonLoader.dll.mdb  241 KB
+│   │   ├── MelonLoader.pdb  210 KB
+│   │   ├── MelonLoader.xml  676 KB
+│   │   ├── Mono.Cecil.dll  332 KB
+│   │   ├── Mono.Cecil.Mdb.dll  42 KB
+│   │   ├── Mono.Cecil.Pdb.dll  84 KB
+│   │   ├── Mono.Cecil.Rocks.dll  27 KB
+│   │   ├── MonoMod.Backports.dll  237 KB
+│   │   ├── MonoMod.exe  66 KB
+│   │   ├── MonoMod.ILHelpers.dll  6 KB
+│   │   ├── MonoMod.RuntimeDetour.dll  106 KB
+│   │   ├── MonoMod.Utils.dll  184 KB
+│   │   ├── Newtonsoft.Json.dll  504 KB
+│   │   ├── Tomlet.dll  96 KB
+│   │   ├── ValueTupleBridge.dll  31 KB
+│   │   └── WebSocketDotNet.dll  36 KB
+│   ├── net35/  [6,237 KB]
+│   │   ├── 0Harmony.dll  258 KB
+│   │   ├── AsmResolver.dll  66 KB
+│   │   ├── AsmResolver.DotNet.dll  514 KB
+│   │   ├── AsmResolver.PE.dll  374 KB
+│   │   ├── AsmResolver.PE.File.dll  39 KB
+│   │   ├── AssetRipper.Primitives.dll  28 KB
+│   │   ├── AssetsTools.NET.dll  192 KB
+│   │   ├── bHapticsLib.dll  48 KB
+│   │   ├── Iced.dll  1,852 KB
+│   │   ├── Il2CppInterop.Common.dll  40 KB
+│   │   ├── Il2CppInterop.Generator.dll  214 KB
+│   │   ├── Il2CppInterop.HarmonySupport.dll  25 KB
+│   │   ├── Il2CppInterop.Runtime.dll  285 KB
+│   │   ├── IndexRange.dll  11 KB
+│   │   ├── MelonLoader.deps.json  82 KB
+│   │   ├── MelonLoader.dll  1,870 KB
+│   │   ├── MelonLoader.NativeHost.deps.json  10 KB
+│   │   ├── MelonLoader.NativeHost.dll  14 KB
+│   │   ├── MelonLoader.pdb  229 KB
+│   │   ├── MelonLoader.runtimeconfig.json  0 KB
+│   │   ├── MelonLoader.xml  676 KB
+│   │   ├── Microsoft.Bcl.AsyncInterfaces.dll  15 KB
+│   │   ├── Microsoft.Diagnostics.NETCore.Client.dll  136 KB
+│   │   ├── Microsoft.Diagnostics.Runtime.dll  666 KB
+│   │   ├── Microsoft.Extensions.Configuration.Abstractions.dll  20 KB
+│   │   ├── Microsoft.Extensions.Configuration.Binder.dll  24 KB
+│   │   ├── Microsoft.Extensions.Configuration.dll  25 KB
+│   │   ├── Microsoft.Extensions.DependencyInjection.Abstractions.dll  36 KB
+│   │   ├── Microsoft.Extensions.Logging.Abstractions.dll  61 KB
+│   │   ├── Microsoft.Extensions.Logging.dll  31 KB
+│   │   ├── Microsoft.Extensions.Options.dll  39 KB
+│   │   ├── Microsoft.Extensions.Primitives.dll  35 KB
+│   │   ├── Mono.Cecil.dll  353 KB
+│   │   ├── Mono.Cecil.Mdb.dll  39 KB
+│   │   ├── Mono.Cecil.Pdb.dll  88 KB
+│   │   ├── Mono.Cecil.Rocks.dll  26 KB
+│   │   ├── MonoMod.Backports.dll  28 KB
+│   │   ├── MonoMod.dll  66 KB
+│   │   ├── MonoMod.ILHelpers.dll  4 KB
+│   │   ├── MonoMod.RuntimeDetour.dll  110 KB
+│   │   ├── MonoMod.Utils.dll  188 KB
+│   │   ├── Newtonsoft.Json.dll  696 KB
+│   │   ├── System.Configuration.ConfigurationManager.dll  415 KB
+│   │   ├── System.Security.Cryptography.ProtectedData.dll  37 KB
+│   │   ├── System.Security.Permissions.dll  113 KB
+│   │   ├── System.Windows.Extensions.dll  68 KB
+│   │   ├── Tomlet.dll  104 KB
+│   │   ├── UnityEngine.Il2CppAssetBundleManager.deps.json  51 KB
+│   │   ├── UnityEngine.Il2CppAssetBundleManager.dll  21 KB
+│   │   ├── UnityEngine.Il2CppAssetBundleManager.pdb  14 KB
+│   │   ├── UnityEngine.Il2CppImageConversionManager.deps.json  51 KB
+│   │   ├── UnityEngine.Il2CppImageConversionManager.dll  8 KB
+│   │   ├── UnityEngine.Il2CppImageConversionManager.pdb  12 KB
+│   │   └── WebSocketDotNet.dll  56 KB
+│   ├── net6/  [10,470 KB]
+│   └── Latest.log  3 KB
+├── MelonLoader/  [109,396 KB]
+├── Mods/  [0 KB]
+├── Plugins/  [0 KB]
+│   │   │   └── global-metadata.dat  8,635 KB
+│   │   ├── Metadata/  [8,635 KB]
+│   │       ├── mscorlib.dll-resources.dat  330 KB
+│   │       ├── System.Data.dll-resources.dat  92 KB
+│   │       └── System.Drawing.dll-resources.dat  25 KB
+│   │   └── Resources/  [446 KB]
+│   ├── il2cpp_data/  [9,081 KB]
+│   │       ├── lib_burst_generated.dll  2 KB
+│   │       └── steam_api64.dll  257 KB
+│   │   └── x86_64/  [259 KB]
+│   ├── Plugins/  [259 KB]
+│   │   ├── unity default resources  1,528 KB
+│   │   └── unity_builtin_extra  387 KB
+│   ├── Resources/  [1,914 KB]
+│   │   │   │   └── link.xml  2 KB
+│   │   │   ├── AddressablesLink/  [2 KB]
+│   │   │   │   ├── localization-assets-shared_assets_all.bundle  42 KB
+│   │   │   │   ├── localization-locales_assets_all.bundle  3 KB
+│   │   │   │   ├── localization-string-tables-chinese(simplified)(zh)_assets_all.bundle  73 KB 
+│   │   │   │   ├── localization-string-tables-danish(da)_assets_all.bundle  76 KB
+│   │   │   │   ├── localization-string-tables-dutch(nl)_assets_all.bundle  78 KB
+│   │   │   │   ├── localization-string-tables-english(en)_assets_all.bundle  74 KB
+│   │   │   │   ├── localization-string-tables-french(fr)_assets_all.bundle  81 KB
+│   │   │   │   ├── localization-string-tables-german(de)_assets_all.bundle  81 KB
+│   │   │   │   ├── localization-string-tables-italian(it)_assets_all.bundle  79 KB
+│   │   │   │   ├── localization-string-tables-japanese(ja)_assets_all.bundle  78 KB
+│   │   │   │   ├── localization-string-tables-korean(ko)_assets_all.bundle  77 KB
+│   │   │   │   ├── localization-string-tables-polish(pl)_assets_all.bundle  80 KB
+│   │   │   │   ├── localization-string-tables-portuguese(pt)_assets_all.bundle  79 KB
+│   │   │   │   ├── localization-string-tables-russian(ru)_assets_all.bundle  88 KB
+│   │   │   │   └── localization-string-tables-spanish(es)_assets_all.bundle  79 KB
+│   │   │   ├── StandaloneWindows64/  [1,066 KB]
+│   │   │   ├── catalog.json  230 KB
+│   │   │   └── settings.json  2 KB
+│   │   ├── aa/  [1,299 KB]
+│   │   └── UnityServicesProjectConfiguration.json  2 KB
+│   ├── StreamingAssets/  [1,301 KB]
+│   ├── app.info  0 KB
+│   ├── boot.config  0 KB
+│   ├── globalgamemanagers  228 KB
+│   ├── globalgamemanagers.assets  575 KB
+│   ├── globalgamemanagers.assets.resS  2,752 KB
+│   ├── level0  20 KB
+│   ├── level1  7,302 KB
+│   ├── resources.assets  3,070 KB
+│   ├── resources.assets.resS  21,945 KB
+│   ├── resources.resource  528 KB
+│   ├── RuntimeInitializeOnLoads.json  4 KB
+│   ├── ScriptingAssemblies.json  5 KB
+│   ├── sharedassets0.assets  1,418 KB
+│   ├── sharedassets0.assets.resS  4,407 KB
+│   ├── sharedassets0.resource  2,559 KB
+│   ├── sharedassets1.assets  1,258 KB
+│   ├── sharedassets1.assets.resS  4,975 KB
+│   └── sharedassets1.resource  3,913 KB
+├── Revolution Idle_Data/  [67,516 KB]
+│   ├── Loader.cfg  4 KB
+│   └── MelonPreferences.cfg  0 KB
+├── UserData/  [4 KB]
+├── UserLibs/  [0 KB]
+├── baselib.dll  408 KB
+├── GameAssembly.dll  37,532 KB
+├── Revolution Idle.exe  651 KB
+├── UnityCrashHandler64.exe  1,087 KB
+├── UnityPlayer.dll  30,177 KB
+└── version.dll  10,524 KB
